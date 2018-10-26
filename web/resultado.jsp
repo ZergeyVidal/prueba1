@@ -22,6 +22,5 @@
             out.print("usuario no existe");
         }
         %>
- 
     </body>
 </html>
